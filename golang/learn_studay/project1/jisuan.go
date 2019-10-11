@@ -2,11 +2,6 @@ package main
 
 import (
 	"fmt"
-	//"reflect"
-	//"regexp"
-	//"strconv"
-	
-
 )
 var First float32
 var FuHao string
