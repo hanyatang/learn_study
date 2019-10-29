@@ -1,0 +1,5 @@
+package shuju
+
+import (
+	"fmt"
+)
