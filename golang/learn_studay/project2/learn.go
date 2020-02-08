@@ -51,7 +51,7 @@ func newstuday(name string,yuwen,shuxue,yingyu int)*learn{
 	}
 }
 func addstuday() {
-	var(
+	var (
 		name string
 		yuwen int
 		shuxue int
